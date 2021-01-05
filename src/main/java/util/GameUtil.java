@@ -24,7 +24,7 @@ public class GameUtil {
         baseballInfo.saveAnswerMap(answerNumber);
         baseballInfo.setLifePoint(lifePoint);
         baseballInfo.setCorrectCount(correctCount);
-        System.out.println(answerNumber);
+        // System.out.println(answerNumber);
     }
 
     public static void processGame() {
